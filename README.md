@@ -32,6 +32,6 @@ Programmation orientée objet (héritage, polymorphisme, abstraction), interface
 
 ```bash
 git clone https://github.com/Chocopter/IUT-labyrinthe.git
-cd PU-labyrinthe/2026-labyrinthe-StyzinskiAdrian
+cd IUT-labyrinthe/2026-labyrinthe-StyzinskiAdrian
 mvn clean javafx:run
 ```
